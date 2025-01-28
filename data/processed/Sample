@@ -1,0 +1,8 @@
+	age	time_in_hospital	n_lab_procedures	n_procedures	n_medications	n_outpatient	n_inpatient	n_emergency	medical_specialty	diag_1	diag_2	diag_3	glucose_test	A1Ctest	change	diabetes_med	readmitted
+0	(70-80)	8	72	1	18	2	0	0	Missing	Circulatory	Respiratory	Other	no	no	no	yes	no
+1	(70-80)	3	34	2	13	0	0	0	Other	Other	Other	Other	no	no	no	yes	no
+2	(50-60)	5	45	0	18	0	0	0	Missing	Circulatory	Circulatory	Circulatory	no	no	yes	yes	yes
+3	(70-80)	2	36	0	12	1	0	0	Missing	Circulatory	Other	Diabetes	no	no	yes	yes	yes
+4	(60-70)	1	42	0	7	0	0	0	InternalMedicine	Circulatory	Circulatory	Respiratory	no	no	no	yes	no
+...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...
+24995	(80-90)	14	77	1	30	0	0	0	Missing	Circulatory	Other	Circulatory	no	normal	no	no	yes
